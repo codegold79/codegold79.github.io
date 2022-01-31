@@ -1,4 +1,4 @@
-## Welcome to Codegold79's About Me Page
+## Hello World
 
 I am a Go enthusiast, both the game (weiqi/baduk) and the programming language.
 
@@ -15,5 +15,3 @@ I've been particularly in the weeds with Kubernetes controllers that use the Kub
 
 - [MVPStudio](https://github.com/MVPStudio) - [Example PRs](https://github.com/MVPStudio/k8-hello-world)
 - [OpenFaaS](https://www.openfaas.com/) - [Exampe Pull PRs](https://github.com/openfaas/certifier/pulls?q=is%3Apr+author%3Acodegold79+)
-
-
