@@ -1,4 +1,4 @@
-## Hello World
+## Hello, World!
 
 I am a Go enthusiast, both the game (weiqi/baduk) and the programming language.
 
